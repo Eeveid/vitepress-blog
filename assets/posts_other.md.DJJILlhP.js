@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./chunks/framework.BUabtMKJ.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"posts/other.md","filePath":"posts/other.md","lastUpdated":null}'),s={name:"posts/other.md"};function a(r,n,c,p,d,_){return o(),e("div")}const m=t(s,[["render",a]]);export{l as __pageData,m as default};
